@@ -1,31 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Mohammadreza+Soltani;Founder+%40+Knowxis;Senior+Software+Engineer;Web+%C2%B7+Mobile+%C2%B7+Bots+%C2%B7+AI" alt="Typing SVG" />
+# 👋 Hi, I'm Mohammadreza Soltani
+
+### Founder @ [Knowxis](https://knowxis.ir/) · Senior Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Bots+%C2%B7+AI;Building+software+businesses+rely+on" alt="Typing SVG" />
 
 <br/>
-
-### Building production software businesses rely on
 
 [![Website](https://img.shields.io/badge/knowxis.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://knowxis.ir/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soltani-mohammadreza)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Knowxis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgsoltani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knowxis-mohammadrezasoltani)
 
 </div>
 
 ---
 
-## About me
+## 🚀 About me
 
 I'm a **Senior Software Engineer** and **Founder of [Knowxis Technologies](https://knowxis.ir/)** — a polyglot builder who owns delivery end-to-end.
 
 I ship **scalable web platforms**, **mobile apps**, **desktop systems**, **bots**, and **AI-powered automation** that companies can run in production — not demos.
 
-> Open to serious product builds and long-term engineering partnerships.
+> 💡 Open to serious product builds and long-term engineering partnerships.
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,ts,nodejs,go,java,kotlin,dart,flutter,html,css,mysql,postgres,docker,git,linux,vscode&perline=10" alt="Tech stack" />
@@ -49,10 +52,10 @@ I ship **scalable web platforms**, **mobile apps**, **desktop systems**, **bots*
 
 ---
 
-## What I build
+## 💼 What I build
 
 | | Focus | Examples |
-|---|---|---|
+|:---:|:---|:---|
 | 🌐 | **Web platforms** | Full-stack apps with Django / Laravel / Node |
 | 📱 | **Mobile** | Flutter & Android (Kotlin) products |
 | 🖥️ | **Desktop** | Cross-platform business tools |
@@ -61,7 +64,16 @@ I ship **scalable web platforms**, **mobile apps**, **desktop systems**, **bots*
 
 ---
 
-## Connect
+## 📊 GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=knowxis-mohammadrezasoltani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowxis-mohammadrezasoltani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## 🔗 Connect
 
 <div align="center">
 
@@ -74,7 +86,7 @@ I ship **scalable web platforms**, **mobile apps**, **desktop systems**, **bots*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=knowxis-mohammadrezasoltani&style=flat-square&color=58A6FF" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=knowxis-mohammadrezasoltani&label=Profile%20views&style=for-the-badge&color=58A6FF" alt="Profile views"/>
 
 </div>
 
