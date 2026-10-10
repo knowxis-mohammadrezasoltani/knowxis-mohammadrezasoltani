@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mohammadreza Soltani
 
-<!--
-**mohamamdreza-soltani/mohamamdreza-soltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer & Founder** at [Knowxis Technologies](https://knowxis.ir/).
 
-Here are some ideas to get you started:
+I build production software businesses rely on — scalable web platforms, mobile apps, desktop systems, bots, and AI-powered automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` `Django` `PHP` `Laravel` `JavaScript` `TypeScript` `Go` `Java` `Kotlin` `Dart` `Flutter`
+
+### Focus
+Web · Mobile · Desktop · Bots · AI & Automation · Full-Stack Delivery
+
+### Links
+- Website: [knowxis.ir](https://knowxis.ir/)
+- LinkedIn: [soltani-mohammadreza](https://www.linkedin.com/in/soltani-mohammadreza)
+- Telegram: [@Knowxis](https://t.me/Knowxis)
+
+Open to serious product builds and long-term engineering partnerships.
