@@ -84,9 +84,6 @@ I ship **scalable web platforms**, **mobile apps**, **desktop systems**, **bots*
 | ✈️ **Telegram** | [@Knowxis](https://t.me/Knowxis) |
 | 📍 **Location** | Mashhad, Iran · Remote |
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=knowxis-mohammadrezasoltani&label=Profile%20views&style=for-the-badge&color=58A6FF" alt="Profile views"/>
 
 </div>
 
